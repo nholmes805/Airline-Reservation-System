@@ -23,5 +23,6 @@ Upon launching the application, you will be greeted with the main window where y
 - Enter details for new flights.
 - View and manage existing reservations.
 - Use the interface buttons to interact with the system (e.g., 'Reserve', 'Cancel').
--Username: admin
--Password: password
+- Username: admin
+- Password: password
+
